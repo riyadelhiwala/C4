@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ce22.aspx.cs" Inherits="WebApplication1.ce22" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ce22riya.aspx.cs" Inherits="WebApplication1.ce22" %>
 
 <!DOCTYPE html>
 
